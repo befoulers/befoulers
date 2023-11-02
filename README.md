@@ -12,8 +12,8 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipesergios&show_icons=true&count_private=true&hide_border=true&title_color=8968fb&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipesergios&layout=compact&hide_border=true&title_color=8968fb&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dougkalash&show_icons=true&count_private=true&hide_border=true&title_color=8968fb&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dougkalash&layout=compact&hide_border=true&title_color=8968fb&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 <p align="center">
