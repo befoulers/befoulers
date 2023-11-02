@@ -4,25 +4,22 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/153490292081819648?theme=dark&bg=161b22&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT)](https://discord.com/users/153490292081819648)
 </div>
 
+<!--
+<div align="center">
+   <img width="10%" height="75px" src="LOGO" />
+   
+</div> -->
 
-<br>
 
-<h1 align="center">My stats</h1>
-<div align=center>
-    <img
-        width="396"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaSapChim&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
-    />
-    <img
-        width="396"
-        height="220"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=CaSapChim&theme=radical&hide_border=false"
-    />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipesergios&show_icons=true&count_private=true&hide_border=true&title_color=8968fb&icon_color=F1D559&text_color=FFFFFF&bg_color=0d1117" alt="DGS1337 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipesergios&layout=compact&hide_border=true&title_color=8968fb&text_color=FFFFFF&bg_color=0d1117" />
 </div>
-<br>
 
-<h1 align="center">Language and tools</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=md,html,css,js,nodejs,git,github,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,kubernetes,react,laravel,php,azure" />
+  </a>
 </p>
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8968fb&height=120&section=footer"/>
