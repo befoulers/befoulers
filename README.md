@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/dougkalash">
-    <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,react,php,azure" />
+    <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,python,php,azure" />
   </a>
 </p>
  
