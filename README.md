@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/153490292081819648">
-    <img src="https://lanyard-profile-readme.vercel.app/api/153490292081819648?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT" />
+    <img src="https://lanyard.cnrad.dev/api/153490292081819648?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT" />
   </a>
 </p>
 
